@@ -2897,13 +2897,13 @@
         "path": "images/NodOn/128b-000A-0301-700_nodon_sin_1_fw_efr32_V0301.zigbee"
     },
     {
-        "fileVersion": 61,
-        "fileSize": 261022,
+        "fileVersion": 62,
+        "fileSize": 261014,
         "manufacturerCode": 26214,
         "imageType": 13,
-        "sha512": "f68ec119f2a779f10446847d7fe0edcebf44f19bd5e452631aacba295bfcae4881f0a7be934c03e864c3262f26ede6f527f299a4157c6997f94db2fb925a5709",
-        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Sprut.device/wb_msw4_mgm_061.ota",
-        "path": "images/Sprut.device/wb_msw4_mgm_061.ota"
+        "sha512": "9d47a8eaaaf41c8fa03abafbcb407450a6ca3ff25006cfa33e1c7d3b663ec4b0472c4c2622aa246152488ef5854c293d0932712bbe364bf8a7ff5a72c3b74c30",
+        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Sprut.device/zb_wb_msw4_mgm21_062.ota",
+        "path": "images/Sprut.device/zb_wb_msw4_mgm21_062.ota"
     },
     {
         "fileVersion": 32,
@@ -3575,5 +3575,14 @@
         "modelId": "GL-B-007P",
         "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Gledopto/GL-B-007P_V20451233_20240425.ota",
         "path": "images/Gledopto/GL-B-007P_V20451233_20240425.ota"
+    },
+    {
+        "fileVersion": 62,
+        "fileSize": 219642,
+        "manufacturerCode": 26214,
+        "imageType": 15,
+        "sha512": "0f5b47092c2df550270460d9e446563da1bb72fd841747c9b738f6b75de6cebecdc92aa7aa3be2c814cbea9aea624c5f9d0f4dbdbc150f3b569c25d764629d02",
+        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Sprut.device/zb_wb_msw4_mg21_062.ota",
+        "path": "images/Sprut.device/zb_wb_msw4_mg21_062.ota"
     }
 ]
